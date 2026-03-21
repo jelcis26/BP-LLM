@@ -11,8 +11,7 @@ Preference-based alignment methods such as DPO and BCO treat comparisons as inde
 BP-LLM generalizes and recovers **DPO** and **BCO** as special cases.
  
 
-
-
+![BP-LLM Overview](bp_llm.png)
 
 ## 🧪 Repository and Environment
 This repository is organized around Google Colab notebooks. Each notebook is designed to run independently and reproduce a specific experimental setting reported in the paper.
@@ -26,7 +25,7 @@ All notebooks were developed and tested in Google Colab with an NVIDIA A100-SXM4
 - GPU: `NVIDIA A100-SXM4-80GB`
 Because Google Colab environments may change over time, minor package adjustments may be needed to reproduce the notebooks.
 
-Citing BP-LLM
+## Citing BP-LLM
 @article{liang2026bpllm,
   author    = {Liang, Jessica},
   title     = {{BP-LLM: Belief Propagation for Binary Feedback in Large Language Model Alignment}},
