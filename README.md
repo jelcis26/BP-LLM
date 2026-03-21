@@ -26,12 +26,12 @@ All notebooks were developed and tested in Google Colab with an NVIDIA A100-SXM4
 Because Google Colab environments may change over time, minor package adjustments may be needed to reproduce the notebooks.
 
 ## Citing BP-LLM
-@article{liang2026bpllm,
-  author    = {Liang, Jessica},
-  title     = {{BP-LLM: Belief Propagation for Binary Feedback in Large Language Model Alignment}},
-  journal   = {Transactions of the Association for Computational Linguistics},
-  year      = {2026},
-  note      = {Accepted for publication}
-}
+`@article{liang2026bpllm,`
+  `author    = {Liang, Jessica},`
+  `title     = {{BP-LLM: Belief Propagation for Binary Feedback in Large Language Model Alignment}},`
+  `journal   = {Transactions of the Association for Computational Linguistics},`
+  `year      = {2026},`
+  `note      = {Accepted for publication}`
+`}`
 
 
